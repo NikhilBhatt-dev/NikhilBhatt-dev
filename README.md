@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @NikhilBhatt-dev
-- 👀 I’m interested in creating unique Web-site
-- 🌱 I’m currently learning Java-Script
-- 💞️ I’m looking for internship ..
+Hello, I’m Nikhil, a 2nd-year Computer Science student from [birla institiue of applied science] in Uttarakhand. I have a solid foundation in HTML, CSS, JavaScript, and Python.I’m eager to apply my technical skills in a practical setting and gain real-world experience through an internship. I’m particularly interested in building efficient solutions and learning about industry practices in software development. Through hands-on projects, I’ve developed a strong understanding of web development, and I’m excited to bring my skills and passion to a collaborative team."
