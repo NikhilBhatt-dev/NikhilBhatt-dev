@@ -3,10 +3,9 @@
 🚀 **Frontend Developer | Learner | Tech Enthusiast**  
 A passionate developer from **India** who loves building interactive, scalable, and user-friendly web applications.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=NikhilBhatt-dev&label=Profile%20Views&color=blue&style=flat)  
-![Profile Views](https://komarev.com/ghpvc/?username=NikhilBhatt-dev&label=✨%20Profile%20Views&color=ff69b4&style=for-the-badge)
+
 ![Visitors](https://komarev.com/ghpvc/?username=NikhilBhatt-dev&label=👀%20Visitors&color=green&style=for-the-badge)
-![Visitors](https://komarev.com/ghpvc/?username=NikhilBhatt-dev&label=Visitors&color=lightgrey&style=for-the-badge)
+
 
 
 
