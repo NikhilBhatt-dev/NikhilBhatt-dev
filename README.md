@@ -19,9 +19,10 @@
 <a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:bhattnikhil158@gmail.com?subject=Contact%20from%20GitHub%20Profile&body=Hi%20Nikhil,%0A%0AI%20would%20like%20to%20connect%20with%20you...">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhattnikhil158@gmail.com&su=Contact%20from%20GitHub%20Profile&body=Hi%20Nikhil,%0A%0AI%20would%20like%20to%20connect%20with%20you..." target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://your-portfolio-link.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
