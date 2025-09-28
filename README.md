@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-bhatt-/" target="blank">
+<a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:bhattnikhil158@gmail.com">
@@ -25,9 +25,7 @@
 <a href="https://your-portfolio-link.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 </p>
 
 ---
