@@ -7,10 +7,7 @@
 ### 👨‍💻 About Me
 💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
 📚 **Active Member @ BIAS Bhimtal** | Loves working on impactful projects & contributing to tech communities.  
-🌱 Currently working on:
-- 🌐 **Student Counseling Web App** – Onboarding system with admin panel.   
-- 🎵 **Spotify Clone** – Music player with dynamic playlists.  
-🎯 Goal: To become a full-stack developer at a product-based company and build scalable products.
+
 
 ---
 
