@@ -1,63 +1,74 @@
-<!-- Banner / Profile Header -->
 <h1 align="center">Hi 👋, I'm Nikhil Bhatt</h1>
-<h3 align="center">CSE Student @ BIAS Bhimtal 🎓 | MERN & AI Enthusiast 🚀 | Tech Explorer </h3>
+<h3 align="center">Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
----
-
-### 👨‍💻 About Me
-💡 Aspiring software developer passionate about **MERN Stack, AI projects, and DSA**.  
-📚 **Active Member @ BIAS Bhimtal** | Loves working on impactful projects & contributing to tech communities.  
-
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhattnikhil158@gmail.com&su=Contact%20from%20GitHub%20Profile&body=Hi%20Nikhil,%0A%0AI%20would%20like%20to%20connect%20with%20you..." target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://your-portfolio-link.vercel.app/" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikhilBhatt-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🛠️ Skills
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 About Me
+
+- 💻 Passionate about **Web Development**
+- 🌱 Currently learning **Advanced JavaScript & Frontend Frameworks**
+- 🎯 Focused on building **clean, responsive, user-friendly interfaces**
+- 🧠 Strong interest in **problem-solving & UI logic**
+- ⚡ Believe in *learning by building*
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 💻 Languages & Tools
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilBhatt-dev&show_icons=true&theme=tokyonight" alt="Nikhil's GitHub stats" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilBhatt-dev&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vs code" />
 </p>
 
 ---
 
-### 📈 Most Used Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBhatt-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 📊 GitHub Statistics (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilBhatt-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBhatt-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=NikhilBhatt-dev&color=blue&style=flat-square)
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NikhilBhatt-dev&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-⭐️ From [Nikhil Bhatt](https://github.com/NikhilBhatt-dev)
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilBhatt-dev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikhilBhatt-dev&theme=onedark&row=1&column=6&no-frame=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/NikhilBhatt-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ✨ Quote I Follow
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
