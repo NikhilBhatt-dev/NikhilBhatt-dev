@@ -22,8 +22,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Nextjs" height="60" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="12" />>
   <img src="https://skillicons.dev/icons?i=git" height="60" />
 </div>
 
