@@ -49,7 +49,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NikhilBhatt-dev&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NikhilBhatt-dev&theme=dracula&row=1&column=6" height="150"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=NikhilBhatt-dev&theme=dracula&row=1&column=6" height="150"/> -->
 </div>
 
 ---
