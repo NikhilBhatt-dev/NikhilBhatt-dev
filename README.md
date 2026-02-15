@@ -24,6 +24,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" />
+  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=git" height="60" />
 </div>
 
