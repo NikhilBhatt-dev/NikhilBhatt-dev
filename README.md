@@ -61,7 +61,6 @@
 
 - 🔭 Currently working on frontend & JavaScript projects  
 - 🌱 Learning **DSA & web development**
-- 💬 Ask me about **JavaScript, React, MongoDB**
 - 🎯 Goal: Become a strong **Full-Stack Developer**
 
 ---
