@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Nikhil Bhatt — Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">I'm Nikhil Bhatt — Frontend Developer from India </h3>
 
 ---
 
