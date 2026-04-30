@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Nikhil Bhatt — Frontend Developer from India </h3>
+<h3 align="center">I'm Nikhil Bhatt — Frontend Developer from India In </h3>
 
 ---
 
@@ -55,11 +55,11 @@
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=NikhilBhatt-dev&theme=dracula&row=1&column=6" height="150"/> -->
 </div>
 
----
+--
 
 ## 🧠 About Me
 
-- 🔭 Currently working on frontend & JavaScript projects  
+- 🔭 Currently working on backend & Mern Stack projects  
 - 🌱 Learning **DSA & web development**
 - 🎯 Goal: Become a strong **Full-Stack Developer**
 
