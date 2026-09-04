@@ -11,43 +11,40 @@ URL = f"https://github.com/users/{USERNAME}/contributions"
 OUT = Path("data/contributions.json")
 
 
-def extract_count(cell, soup):
-    # GitHub currently exposes the count in the cell's tooltip target.
-    target_id = cell.get("aria-describedby")
-    if target_id:
-        tip = soup.find(id=target_id)
+def contribution_count(cell, soup):
+    cell_id = cell.get("id")
+    if cell_id:
+        tip = soup.find("tool-tip", attrs={"for": cell_id})
         if tip:
             text = tip.get_text(" ", strip=True)
-            m = re.search(r"([\d,]+) contribution", text)
-            if m:
-                return int(m.group(1).replace(",", ""))
+            match = re.search(r"([\d,]+)\s+contribution", text)
+            if match:
+                return int(match.group(1).replace(",", ""))
 
-    # Fallback: look at common tooltip attributes/content.
-    for node in cell.find_all(attrs={"data-tooltip-text": True}):
-        text = node.get("data-tooltip-text", "")
-        m = re.search(r"([\d,]+) contribution", text)
-        if m:
-            return int(m.group(1).replace(",", ""))
+    text = cell.get_text(" ", strip=True)
+    match = re.search(r"([\d,]+)\s+contribution", text)
+    if match:
+        return int(match.group(1).replace(",", ""))
 
     text = cell.get("data-tooltip-text", "")
-    m = re.search(r"([\d,]+) contribution", text)
-    return int(m.group(1).replace(",", "")) if m else 0
+    match = re.search(r"([\d,]+)\s+contribution", text)
+    return int(match.group(1).replace(",", "")) if match else 0
 
 
 def main():
-    r = requests.get(
+    response = requests.get(
         URL,
-        headers={"User-Agent": "Mozilla/5.0 GitHub-Contribution-Renderer"},
+        headers={
+            "User-Agent": "Mozilla/5.0 GitHub-Contribution-Renderer",
+            "Referer": f"https://github.com/{USERNAME}",
+            "X-Requested-With": "XMLHttpRequest",
+        },
         timeout=30,
     )
-    r.raise_for_status()
-    soup = BeautifulSoup(r.text, "html.parser")
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    cells = soup.select("td.ContributionCalendar-day")
-    if not cells:
-        # GitHub has also used rect elements in some calendar variants.
-        cells = soup.select("rect.ContributionCalendar-day")
-
+    cells = soup.select("td.ContributionCalendar-day[data-date]")
     if not cells:
         raise RuntimeError("No contribution calendar cells found; GitHub markup may have changed.")
 
@@ -60,11 +57,11 @@ def main():
         days.append({
             "date": date,
             "level": int(level),
-            "count": extract_count(cell, soup),
+            "count": contribution_count(cell, soup),
         })
 
-    days.sort(key=lambda x: x["date"])
-    total = sum(d["count"] for d in days)
+    days.sort(key=lambda item: item["date"])
+    total = sum(item["count"] for item in days)
 
     payload = {
         "username": USERNAME,
