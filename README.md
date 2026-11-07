@@ -1,50 +1,48 @@
-<div align="center">
+## Profile snapshot
 
-<img src="./assets/heatmap.svg" width="760" alt="Animated contribution heatmap">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=nikhilbhatt-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157714918%3Fu%3Dd5be074757af3c04953b73052b4773bd73253d3e%26v%3D4" alt="nikhilbhatt-dev hero visual" />
+</p>
 
-<br>
+**Nikhil Bhatt** · Full-Stack Developer
 
-<table>
-<tr>
-<td width="48%" align="center">
-<img src="./assets/meme.gif" width="350" alt="Developer meme">
-</td>
-<td width="48%" align="center">
-<img src="./assets/info-card.svg" width="350" alt="Terminal profile card">
-</td>
-</tr>
-</table>
+## I'm 14 years old. Frontend Web Developer
 
-<br>
+Computer Science Engineering student and Full-Stack Developer experienced in building web applications, real-time distributed systems, and developer tools using Java, JavaScript, React.js, Node.js, Express.js, and SQL/NoSQL databases. Built a CRDT-based collaborative code editor, developed secure e-commerce workflows, and published an open-source backend generator on npm. Familiar with LLM, Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic search, with an interest in applying AI-assisted workflows across software development, testing, and deployment. Strong found
 
-<a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/NikhilBhatt-dev">GitHub</a>
-&nbsp; • &nbsp;
-<a href="mailto:bhattnikhil158@gmail.com">Email</a>
+- 👥 **2** followers · **6** following
 
-</div>
+## HTML, Css, JS, React Js, Next.js
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) `Batchfile`
 
-## 👋 Hey, I'm Nikhil
+## Smena
 
-Frontend-focused developer building **MERN, TypeScript and real-time collaboration projects**. Currently sharpening **DSA + full-stack development** and exploring systems like **CRDTs**.
+- **[CRDT-main](https://github.com/NikhilBhatt-dev/CRDT-main)** — Featured public work · ⭐ 0
+- **[nextjs](https://github.com/NikhilBhatt-dev/nextjs)** — Featured public work · ⭐ 0
+- **[app](https://github.com/NikhilBhatt-dev/app)** — Featured public work · ⭐ 0
+- **[CLI](https://github.com/NikhilBhatt-dev/CLI)** — Featured public work · ⭐ 0
+- **[expo-app](https://github.com/NikhilBhatt-dev/expo-app)** — Featured public work · ⭐ 0
+- **[WonderFox](https://github.com/NikhilBhatt-dev/WonderFox)** — Featured public work · ⭐ 0
 
-### 🚀 What I build
+## osimxon992@gmail.com
 
-- ⚛️ React / Next.js interfaces
-- 🟢 Node.js / Express backends
-- 🍃 MongoDB + REST APIs
-- 🔄 Real-time collaboration with CRDT concepts
-- 🧠 DSA and problem solving
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=nikhilbhatt-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157714918%3Fu%3Dd5be074757af3c04953b73052b4773bd73253d3e%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnikhil-bhatt&email=bhattnikhil158%40gmail.com" alt="nikhilbhatt-dev social visual" />
+</p>
 
-### 🛠️ Stack
+<a href="https://github.com/nikhilbhatt-dev">GitHub</a> · <a href="https://linkedin.com/in/nikhil-bhatt">LinkedIn</a> · <a href="mailto:bhattnikhil158@gmail.com">Email</a>
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind` `Node.js` `Express` `MongoDB` `Git`
+<p align="center"><sub>Nikhil Bhatt · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-remix-dl0a">Recruiter-ready Remix</a> template by <a href="https://www.gitskins.com/creators/osimxon992-png">@osimxon992-png</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-<div align="center">
+## Experience
 
-⭐ Thanks for visiting — and yes, the profile art is intentionally a little terminal-ish.
+**Education**
 
-</div>
+- Bachelor of Technology in Computer Science Engineering — Birla Institute of Applied Science, Bhimtal (2023 – Present)
+
+**Projects**
+
+- **Realtime Collaborative Code Editor** — Engineered a real-time collaborative code editor supporting multiple concurrent users editing the same document using React, Monaco Editor, Node.js, and Socket.IO. Implemented CRDT-based synchronization with Yjs to manag
+- **Node.js Backend Generator CLI** — Built and published an open-source CLI tool (nikhilbhatt-dev ) on npm that scaffolds backend projects through a single npx command. Designed template-based project generation with recursive file copying, destination-path
+- **E-Commerce Full-Stack Website** — Developed a full-stack e-commerce platform featuring JWT authentication, Stripe payment integration, newsletter subscriptions, and an integrated blog module. Designed and implemented RESTful APIs for authentication, prod
