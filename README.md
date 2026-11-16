@@ -6,7 +6,7 @@
 
 **Nikhil Bhatt** · Full-Stack Developer
 
-## I'm 14 years old. Frontend Web Developer
+## full-stack web developer with 3 years of experience."
 
 Computer Science Engineering student and Full-Stack Developer experienced in building web applications, real-time distributed systems, and developer tools using Java, JavaScript, React.js, Node.js, Express.js, and SQL/NoSQL databases. Built a CRDT-based collaborative code editor, developed secure e-commerce workflows, and published an open-source backend generator on npm. Familiar with LLM, Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic search, with an interest in applying AI-assisted workflows across software development, testing, and deployment. Strong found
 
@@ -25,7 +25,7 @@ Computer Science Engineering student and Full-Stack Developer experienced in bui
 - **[expo-app](https://github.com/NikhilBhatt-dev/expo-app)** — Featured public work · ⭐ 0
 - **[WonderFox](https://github.com/NikhilBhatt-dev/WonderFox)** — Featured public work · ⭐ 0
 
-## osimxon992@gmail.com
+## bhattnikhil158@gmail.com
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=nikhilbhatt-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157714918%3Fu%3Dd5be074757af3c04953b73052b4773bd73253d3e%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnikhil-bhatt&email=bhattnikhil158%40gmail.com" alt="nikhilbhatt-dev social visual" />
