@@ -4,8 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=nikhilbhatt-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157714918%3Fu%3Dd5be074757af3c04953b73052b4773bd73253d3e%26v%3D4" alt="nikhilbhatt-dev hero visual" />
 </p>
 
-**Nikhil Bhatt** · Full-Stack Developer
-
+**Nikhil Bhatt** 
 ## full-stack web developer with 3 years of experience."
 
 Computer Science Engineering student and Full-Stack Developer experienced in building web applications, real-time distributed systems, and developer tools using Java, JavaScript, React.js, Node.js, Express.js, and SQL/NoSQL databases. Built a CRDT-based collaborative code editor, developed secure e-commerce workflows, and published an open-source backend generator on npm. Familiar with LLM, Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic search, with an interest in applying AI-assisted workflows across software development, testing, and deployment. Strong found
@@ -14,9 +13,9 @@ Computer Science Engineering student and Full-Stack Developer experienced in bui
 
 ## HTML, Css, JS, React Js, Next.js
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) `Batchfile`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
 
-## Smena
+## Featured Projects
 
 - **[CRDT-main](https://github.com/NikhilBhatt-dev/CRDT-main)** — Featured public work · ⭐ 0
 - **[nextjs](https://github.com/NikhilBhatt-dev/nextjs)** — Featured public work · ⭐ 0
