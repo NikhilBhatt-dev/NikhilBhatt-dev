@@ -32,7 +32,7 @@ Computer Science Engineering student and Full-Stack Developer experienced in bui
 
 <a href="https://github.com/nikhilbhatt-dev">GitHub</a> · <a href="https://linkedin.com/in/nikhil-bhatt">LinkedIn</a> · <a href="mailto:bhattnikhil158@gmail.com">Email</a>
 
-<p align="center"><sub>Nikhil Bhatt · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-remix-dl0a">Recruiter-ready Remix</a> template by <a href="https://www.gitskins.com/creators/osimxon992-png">@osimxon992-png</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
 
 ## Experience
 
