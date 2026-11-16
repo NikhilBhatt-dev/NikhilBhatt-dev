@@ -30,7 +30,7 @@ Computer Science Engineering student and Full-Stack Developer experienced in bui
   <img src="https://www.gitskins.com/api/section/social?username=nikhilbhatt-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157714918%3Fu%3Dd5be074757af3c04953b73052b4773bd73253d3e%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnikhil-bhatt&email=bhattnikhil158%40gmail.com" alt="nikhilbhatt-dev social visual" />
 </p>
 
-<a href="https://github.com/nikhilbhatt-dev">GitHub</a> · <a href="https://linkedin.com/in/nikhil-bhatt">LinkedIn</a> · <a href="mailto:bhattnikhil158@gmail.com">Email</a>
+<a href="https://github.com/nikhilbhatt-dev">GitHub</a> · <a href="https://www.linkedin.com/in/nikhil-bhatt-485046295/">LinkedIn</a> · <a href="mailto:bhattnikhil158@gmail.com">Email</a>
 
 
 
